@@ -1,4 +1,4 @@
-tempest_config/test.config.xml
+tempest_config/test*
 tempest_config/epg/
 tempest_config/epg/test*
 tempest_config/cookies/
