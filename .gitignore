@@ -1,3 +1,7 @@
+tempest_config/epg/
 tempest_config/cookies/
 tempest_config/log/
 tempest_config/temp/
+*.sh
+*.bat
+*.cmd
