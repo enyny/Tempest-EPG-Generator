@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC][EX]visionplus.id_0">
+  <channels>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000044||612/612-LOGO-m.png" xmltv_id="Celestial Movies">Celestial Movies</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000045||613/613-LOGO-m.png" xmltv_id="CCM">CCM</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000046||614/614-LOGO-m.png" xmltv_id="TVN Movies">TVN Movies</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000047||615/615-LOGO-m.png" xmltv_id="Zee Bioskop">Zee Bioskop</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000048||616/616-LOGO-m.png" xmltv_id="GALAXY PREMIUM">GALAXY PREMIUM</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000049||617/617-LOGO-m.png" xmltv_id="GALAXY">GALAXY</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000051||619/619-LOGO-m.png" xmltv_id="My Family Channel">My Family Channel</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000052||620/620-LOGO-m.png" xmltv_id="My Cinema">My Cinema</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000053||621/621-LOGO-m.png" xmltv_id="My Cinema Asia">My Cinema Asia</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000054||622/622-LOGO-m.png" xmltv_id="PARAMOUNT">PARAMOUNT</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000056||623/623-LOGO-m.png" xmltv_id="Kids TV">Kids TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000058||624/624-LOGO-m.png" xmltv_id="Cbeebies">Cbeebies</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000060||147/75147-LOGO-m.png" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000050||342/10342-LOGO-m.png" xmltv_id="IMC (Indonesia Movie Channel)">IMC (Indonesia Movie Channel)</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000063||626/626-LOGO-m.png" xmltv_id="Zoo Moo">Zoo Moo</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000064||627/627-LOGO-m.png" xmltv_id="Nick">Nick</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000065||628/628-LOGO-m.png" xmltv_id="Animax">Animax</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000066||629/629-LOGO-m.png" xmltv_id="My Kidz">My Kidz</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000067||630/630-LOGO-m.png" xmltv_id="Dream Works">Dream Works</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000071||631/631-LOGO-m.png" xmltv_id="OK TV">OK TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000072||632/632-LOGO-m.png" xmltv_id="Entertainment">Entertainment</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000073||633/633-LOGO-m.png" xmltv_id="TVN">TVN</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000074||634/634-LOGO-m.png" xmltv_id="One">One</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000075||635/635-LOGO-m.png" xmltv_id="Kix">Kix</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000076||636/636-LOGO-m.png" xmltv_id="NHK World Premium">NHK World Premium</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000077||637/637-LOGO-m.png" xmltv_id="Hits">Hits</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000079||638/638-LOGO-m.png" xmltv_id="AXN">AXN</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000080||639/639-LOGO-m.png" xmltv_id="Lifetime">Lifetime</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000081||640/640-LOGO-m.png" xmltv_id="FMN">FMN</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000087||641/641-LOGO-m.png" xmltv_id="Vision Prime">Vision Prime</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000088||642/642-LOGO-m.png" xmltv_id="Celebrities TV">Celebrities TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000089||643/643-LOGO-m.png" xmltv_id="Okezone TV">Okezone TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000092||644/644-LOGO-m.png" xmltv_id="Rock Entertainment">Rock Entertainment</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000093||645/645-LOGO-m.png" xmltv_id="Rock Action">Rock Action</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000095||646/646-LOGO-m.png" xmltv_id="Crime Investigation">Crime Investigation</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000101||647/647-LOGO-m.png" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000102||648/648-LOGO-m.png" xmltv_id="BBC Earth">BBC Earth</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000103||649/649-LOGO-m.png" xmltv_id="Global Trekker">Global Trekker</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000104||650/650-LOGO-m.png" xmltv_id="History">History</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000105||651/651-LOGO-m.png" xmltv_id="Love Nature">Love Nature</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000001||580/580-LOGO-m.png" xmltv_id="RCTI">RCTI</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000112||652/652-LOGO-m.png" xmltv_id="Sportstars">Sportstars</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000003||582/582-LOGO-m.png" xmltv_id="GTV">GTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000113||653/653-LOGO-m.png" xmltv_id="Sportstars 2">Sportstars 2</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000002||581/581-LOGO-m.png" xmltv_id="MNCTV">MNCTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000114||654/654-LOGO-m.png" xmltv_id="Sportstars 3">Sportstars 3</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000004||583/583-LOGO-m.png" xmltv_id="iNews">iNews</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000115||655/655-LOGO-m.png" xmltv_id="Soccer Channel">Soccer Channel</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000119||656/656-LOGO-m.png" xmltv_id="SpoTV 1">SpoTV 1</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000120||657/657-LOGO-m.png" xmltv_id="SpoTV 2">SpoTV 2</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000121||658/658-LOGO-m.png" xmltv_id="Fight Sports">Fight Sports</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000128||659/659-LOGO-m.png" xmltv_id="IDX">IDX</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000130||660/660-LOGO-m.png" xmltv_id="BBC World news">BBC World news</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000131||661/661-LOGO-m.png" xmltv_id="CNBC Asia">CNBC Asia</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000132||662/662-LOGO-m.png" xmltv_id="FOX News">FOX News</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000133||663/663-LOGO-m.png" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000137||664/664-LOGO-m.png" xmltv_id="Muslim TV">Muslim TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000138||665/665-LOGO-m.png" xmltv_id="LIFE">LIFE</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000139||666/666-LOGO-m.png" xmltv_id="Reformed 21">Reformed 21</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000142||667/667-LOGO-m.png" xmltv_id="Music TV">Music TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000143||668/668-LOGO-m.png" xmltv_id="MTV Live">MTV Live</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000144||669/669-LOGO-m.png" xmltv_id="MTV 90s">MTV 90s</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000146||670/670-LOGO-m.png" xmltv_id="DW">DW</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000147||671/671-LOGO-m.png" xmltv_id="France 24">France 24</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000201||580/580-LOGO-m.png" xmltv_id="RCTI">RCTI</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000148||672/672-LOGO-m.png" xmltv_id="TRT World">TRT World</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000202||582/582-LOGO-m.png" xmltv_id="GTV">GTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000149||850/850-LOGO-m.png" xmltv_id="Aljazeera">Aljazeera</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000203||581/581-LOGO-m.png" xmltv_id="MNCTV">MNCTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000150||674/674-LOGO-m.png" xmltv_id="RT">RT</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000151||675/675-LOGO-m.png" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000152||847/847-LOGO-m.png" xmltv_id="Channel News Asia">Channel News Asia</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000153||677/677-LOGO-m.png" xmltv_id="Al Quran Al Kareem">Al Quran Al Kareem</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000154||678/678-LOGO-m.png" xmltv_id="EWTN">EWTN</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000155||679/679-LOGO-m.png" xmltv_id="CGTN Documentary">CGTN Documentary</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000156||680/680-LOGO-m.png" xmltv_id="CGTN">CGTN</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000157||681/681-LOGO-m.png" xmltv_id="Anhui">Anhui</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000158||858/858-LOGO-m.png" xmltv_id="Xing kong TV">Xing kong TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000159||683/683-LOGO-m.png" xmltv_id="Shanghai Dragon">Shanghai Dragon</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000160||853/853-LOGO-m.png" xmltv_id="Hunan TV">Hunan TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000161||685/685-LOGO-m.png" xmltv_id="Jiangsu TV">Jiangsu TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000162||686/686-LOGO-m.png" xmltv_id="NHK">NHK</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000163||687/687-LOGO-m.png" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000164||688/688-LOGO-m.png" xmltv_id="Arirang">Arirang</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000165||689/689-LOGO-m.png" xmltv_id="ABC">ABC</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000204||852/852-LOGO-m.png" xmltv_id="Drama">Drama</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000205||691/691-LOGO-m.png" xmltv_id="Sportstars 4">Sportstars 4</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000207||642/642-LOGO-m.png" xmltv_id="Celebrities TV">Celebrities TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000208||643/643-LOGO-m.png" xmltv_id="Okezone TV">Okezone TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000206||613/613-LOGO-m.png" xmltv_id="CCM">CCM</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000005||584/584-LOGO-m.png" xmltv_id="SindoNews">SindoNews</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000006||585/585-LOGO-m.png" xmltv_id="Trans TV">Trans TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000007||586/586-LOGO-m.png" xmltv_id="Trans 7">Trans 7</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000010||587/587-LOGO-m.png" xmltv_id="ANTV">ANTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000011||588/588-LOGO-m.png" xmltv_id="RTV">RTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000012||589/589-LOGO-m.png" xmltv_id="TVOne">TVOne</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000013||590/590-LOGO-m.png" xmltv_id="Kompas TV">Kompas TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000014||591/591-LOGO-m.png" xmltv_id="Metro TV">Metro TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000015||592/592-LOGO-m.png" xmltv_id="BTV">BTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000016||593/593-LOGO-m.png" xmltv_id="TVRI">TVRI</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000017||594/594-LOGO-m.png" xmltv_id="SEA Today">SEA Today</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000018||595/595-LOGO-m.png" xmltv_id="DAAI TV">DAAI TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000023||596/596-LOGO-m.png" xmltv_id="Net TV">Net TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000024||856/856-LOGO-m.png" xmltv_id="JTV">JTV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000025||598/598-LOGO-m.png" xmltv_id="JAK TV">JAK TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000026||700/700-LOGO-m.png" xmltv_id="Bali TV">Bali TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000027||600/600-LOGO-m.png" xmltv_id="Bandung TV">Bandung TV</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000028||601/601-LOGO-m.png" xmltv_id="TV 9">TV 9</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000029||602/602-LOGO-m.png" xmltv_id="Tawaf">Tawaf</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000030||603/603-LOGO-m.png" xmltv_id="TV MU">TV MU</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000036||604/604-LOGO-m.png" xmltv_id="Cinemachi">Cinemachi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000037||605/605-LOGO-m.png" xmltv_id="Cinemachi Kids">Cinemachi Kids</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000038||606/606-LOGO-m.png" xmltv_id="Cinemachi Xtra">Cinemachi Xtra</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000039||607/607-LOGO-m.png" xmltv_id="Cinemachi Max">Cinemachi Max</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000040||608/608-LOGO-m.png" xmltv_id="Cinemachi Action">Cinemachi Action</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000041||609/609-LOGO-m.png" xmltv_id="Thrill">Thrill</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000042||610/610-LOGO-m.png" xmltv_id="Hits Movies">Hits Movies</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000043||611/611-LOGO-m.png" xmltv_id="CINEMA WORLD">CINEMA WORLD</channel>
+
+<!-- Edit needed -->
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000008||062/569062-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000009||066/569066-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000015||357/273357-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000019||070/569070-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000020||074/569074-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000023||334/320334-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000029||839/437839-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000036||360/273360-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000037||392/273392-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000038||397/273397-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000039||394/273394-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000040||376/273376-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000047||277/410277-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000054||114/345114-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000057||909/162909-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000058||670/493670-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000068||376/612376-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000069||317/604317-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000070||548/604548-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000071||534/172534-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000073||103/458103-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000089||705/243705-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000102||671/493671-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000105||682/295682-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000122||771/198771-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000123||772/198772-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000124||770/198770-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000125||897/198897-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000126||898/198898-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000130||672/493672-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000131||382/600382-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000134||659/659-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000163||311/580311-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000201||426/173426-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000202||424/173424-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000203||425/173425-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000204||427/173427-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000251||711/112711-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000252||088/115088-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000253||712/112712-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001002||444/92444-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001008||817/138817-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001010||710/112710-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001011||883/124883-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001012||698/129698-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001013||509/128509-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001014||287/191287-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001015||288/191288-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001016||289/191289-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001017||290/191290-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001018||402/552402-LOGO-m.png" xmltv_id="placeholder">placeholder</channel>
+<!-- https://www.visionplus.id/images/repository/580/580-LOGO-m.png -->
+
+  </channels>
+</site>

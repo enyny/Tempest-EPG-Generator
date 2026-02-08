@@ -1,0 +1,37 @@
+<?php 
+/*     Tempest EPG Generator (made by Kvanc)
+https://github.com/K-vanc/Tempest-EPG-Generator.git  */
+return array (
+  'filename' => 'indihometv.com',
+  'creator_name' => 'Kivanc',
+  'creation_date' => '2022-12-17',
+  'rev_no' => 'R0',
+  'remarks' => 'Renamed Useetv',
+  'timezone' => 'Asia/Jakarta',
+  'culture' => 'id',
+  'max_day' => '2.1',
+  'url1' => 'https://www.indihometv.com/livetv/##channel##',
+  'requestOption1' => '1',
+  'accept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'content_type1' => 'text/html; charset=UTF-8',
+  'host_header1' => 'www.indihometv.com',
+  'urldate_format1' => '#range#Y-m-d',
+  'grabber_1' => 'on',
+  'gpattern_1' => '(.)||#replace#(.+)##(,)||##urldate1####|',
+  'show' => 'id="pills-(?:##grabber_1##)".*?(?:<div class="col-xs-12">)(.*?)(?:<\\/div>).*?<\\/div>\\s*<\\/div>\\s*<\\/div>\\s*<\\/div>',
+  'start' => '<p>\\s*(\\d{2}[\\.:]\\d{2})',
+  'start_format' => 'H#i',
+  'stop' => '<p>\\s*\\d{2}[\\.:]\\d{2}\\s*-\\s*(\\d{2}[\\.:]\\d{2})',
+  'stop_format' => 'H#i',
+  'title' => '<b>(.*?)<\\/b>',
+  'channel_logo' => '<div class="row video-schedule">.*?<img src="(.*?)"',
+  'ccurl1' => 'https://www.indihometv.com/tv/live',
+  'ccrequestOption1' => '1',
+  'ccaccept_header1' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cccontent_type1' => 'text/html; charset=UTF-8',
+  'cchost_header1' => 'www.indihometv.com',
+  'ccchannel_block' => '<a (?:class="channel-item|data-toggle="modal").*?<\\/a>',
+  'ccchannel_id' => 'data-url=".*?\\/livetv\\/(.*?)"',
+  'ccchannel_name' => 'data-name="(.*?)"',
+);
+?>

@@ -1,0 +1,37 @@
+name: Run Tempest PHP Script
+
+on:
+  schedule:
+    - cron: '10 17 * * *'  # 00:10 UTC+7
+  workflow_dispatch:
+
+jobs:
+  run-tempest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Run Tempest script
+        run: |
+          mkdir -p tempest_config/epg
+          php tempest.php --epg config=tempest invgz
+          ls -lah tempest_config/epg
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
+
+          git add tempest_config/epg/*.xml tempest_config/epg/*.gz
+
+          git commit -m "Update Tempest EPG data" || echo "No changes"
+          git push

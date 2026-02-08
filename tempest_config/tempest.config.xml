@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tempest EPG Generator (made by Kvanc) -->
+<configuration>
+  <filename>guide.xml</filename>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36</user-agent>
+  <logger>off</logger>
+  <retry>2</retry>
+  <time-out>8</time-out>
+  <timespan>7</timespan>
+  <proxy/>
+  <index-only>off</index-only>
+  <fusion>on</fusion>
+  <fusion-level>7</fusion-level>
+  <time-converter/>
+  <delay channel="" index="" detail=""/>
+  <channel-lister>off</channel-lister>
+  <inverter>on</inverter>
+  <inverter-filename/>
+  <inverter-path>["episode":"#Episode Name:#subtitle#\n#","##episode#\n#"]["rating":||#delete#]</inverter-path>
+  <logname/>
+  <channel site="vidio.com_0" site_id="204||Y9ldcMmT27NGBj89JaT-xJuQei8=____204/4e9f5c.png" xmltv_id="SCTV.vidio">SCTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="205||U0X9cEat3cI-OgoV1hGWilpgJMU=____205/54ab19.png" xmltv_id="Indosiar.vidio">Indosiar.vidio</channel>
+  <channel site="vidio.com_0" site_id="733||Yy2WhjaOasGA6j2cGjhI3p9uSDY=____733/ecaa60.png" xmltv_id="TRANS TV.vidio">TRANS TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="734||tIwf0u_ZuHr0AfRiEaVwSSOmvCY=____734/131514.png" xmltv_id="Trans7.vidio">Trans7.vidio</channel>
+  <channel site="vidio.com_0" site_id="206||8MQ0q-Pv5p4tf-sHuOcO3zGFHAY=____206/1823dc.png" xmltv_id="Moji.vidio">Moji.vidio</channel>
+  <channel site="vidio.com_0" site_id="777||nSM-xj2C1XhCwOAzfHW75DoPooY=____777/ea8483.png" xmltv_id="Metro TV.vidio">Metro TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="874||cd_6WHs4PvfwkWLpQ9Iz2YKh0r8=____874/042ca3.png" xmltv_id="Kompas TV.vidio">Kompas TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="1561||AKBGioYcYNKAj16_A9-PrgODqmA=____1561/665aea.png" xmltv_id="RTV.vidio">RTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="875||V3in25nc1mGSAUyzJjbx39d3qMY=____875/cfcc85.png" xmltv_id="NET TV.vidio">NET TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="6165||lkQma9Q-p-ggIK2IFIQq3MpvN7s=____6165/a712b0.png" xmltv_id="BTV.vidio">BTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="6299||8galL7HYtiCt8sVZwDHhmGqzVZU=____6299/d74f54.png" xmltv_id="Bein 1.vidio">Bein 1.vidio</channel>
+  <channel site="vidio.com_0" site_id="6317||PEifEZ8CWKeL_39i5FrG1apR6oM=____6317/4a8762.png" xmltv_id="Bein 3.vidio">Bein 3.vidio</channel>
+  <channel site="vidio.com_0" site_id="6685||EQkQJd6cz8jxRS8QmRU6zF2hqjE=____6685/5add43.png" xmltv_id="Champions TV 1.vidio">Champions TV 1.vidio</channel>
+  <channel site="vidio.com_0" site_id="782||H2bYPCYA91mH6h-5Qb92ckl6SEg=____782/e1af8b.png" xmltv_id="ANTV.vidio">ANTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="783||IDb-4nFRxYxW1_J1mzKmwRSncvI=____783/d658d0.png" xmltv_id="TVOne.vidio">TVOne.vidio</channel>
+  <channel site="vidio.com_0" site_id="6362||Y9zWimYLUCHeRTArLoDWcVuKGfU=____6362/dcd434.png" xmltv_id="TVN.vidio">TVN.vidio</channel>
+  <channel site="vidio.com_0" site_id="7464||FuHVB_ckvEixA4LquZb8Os5q1Xw=____7464/e69965.png" xmltv_id="AJWA TV.vidio">AJWA TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="8237||6QPeY29WLHDHuOqtrJXXriADa3o=____8237/18585d.png" xmltv_id="Mentari TV.vidio">Mentari TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="6397||u6tTiBwVTdgM0pGzU_UGEJMIgjg=____6397/d422cd.png" xmltv_id="Horee.vidio">Horee.vidio</channel>
+  <channel site="vidio.com_0" site_id="6786||5Oa0MmisE3uyzQYeHuMoydoPyZo=____6786/d2ebc5.png" xmltv_id="Champions TV 3.vidio">Champions TV 3.vidio</channel>
+  <channel site="vidio.com_0" site_id="6441||eynLVpXwK1LNTL4SISx0fCCjCZo=____6441/528cc9.png" xmltv_id="TVRI.vidio">TVRI.vidio</channel>
+  <channel site="vidio.com_0" site_id="9182||GXoqO-37dpK1N2ltYFsFt-HZauk=____9182/13b733.png" xmltv_id="Champions TV 5.vidio">Champions TV 5.vidio</channel>
+  <channel site="vidio.com_0" site_id="7052||sEJTExyFC7-av4HPzMAnO6QonL8=____7052/63032e.png" xmltv_id="Hip Hip Horee!.vidio">Hip Hip Horee!.vidio</channel>
+  <channel site="vidio.com_0" site_id="9353||CxcWr0bn4_61-eFnZqfmgSsl2-w=____9353/a79dfe.png" xmltv_id="Premier League TV.vidio">Premier League TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="6686||XtgVvGaQsPEUW2uc5OQulTPxjJ8=____6686/14270d.png" xmltv_id="Champions TV 2.vidio">Champions TV 2.vidio</channel>
+  <channel site="vidio.com_0" site_id="6482||dYSGjjEZCc2bsCrywI2N6pXLM_0=____6482/e83fcf.png" xmltv_id="DAAI TV.vidio">DAAI TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="9183||2puWrfypsdQyFMhynR5gqBBy7zg=____9183/33e19d.png" xmltv_id="Champions TV 6.vidio">Champions TV 6.vidio</channel>
+  <channel site="vidio.com_0" site_id="6410||vVSQmVXxoXfsFfn6mKSpqV3UVSk=____6410/6027db.png" xmltv_id="Aljazeera.vidio">Aljazeera.vidio</channel>
+  <channel site="vidio.com_0" site_id="9713||iEKi0lMRLCuZ5rX6lBh8CkqNFmM=____9713/a11faf.png" xmltv_id="JTV.vidio">JTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="5415||bUUPQNhtPa-vuCOfLzlpbnFyb34=____5415/802b76.png" xmltv_id="Jaktv.vidio">Jaktv.vidio</channel>
+  <channel site="vidio.com_0" site_id="7150||5FE2iiDICoGpa14d-TV-Ba7DZXI=____7150/2de77e.png" xmltv_id="ABC Australia.vidio">ABC Australia.vidio</channel>
+  <channel site="vidio.com_0" site_id="6411||rW-B7LPyeILCjEjS4h08Dj5EBqQ=____6411/e600b8.jpg" xmltv_id="News Asia.vidio">News Asia.vidio</channel>
+  <channel site="vidio.com_0" site_id="5075||VM5iZ8P7jgyM7YRiyivcB-8n3E0=____5075/f6106b.png" xmltv_id="DW English.vidio">DW English.vidio</channel>
+  <channel site="vidio.com_0" site_id="8121||TOOlnGUrBF4XqZpjCfXQ2iwuICA=____8121/e9e2b9.png" xmltv_id="Rock Action.vidio">Rock Action.vidio</channel>
+  <channel site="vidio.com_0" site_id="7968||fxXMdR_9nZCkpDhEWbBZ3maJFXw=____7968/3f44ff.png" xmltv_id="NHK World Japan.vidio">NHK World Japan.vidio</channel>
+  <channel site="vidio.com_0" site_id="6784||hzUXiKyjLB6SfQKWnkM6XR-f4P8=____6784/b9cb20.png" xmltv_id="Arirang.vidio">Arirang.vidio</channel>
+  <channel site="vidio.com_0" site_id="6412||mRuALJ458ws9x2KNgLLIglVYagA=____6412/c0e105.png" xmltv_id="Euro News.vidio">Euro News.vidio</channel>
+  <channel site="vidio.com_0" site_id="7432||tMhJ8Z68gSMrbSKc7vnelzKxYo4=____7432/bfecbc.png" xmltv_id="Nusantara TV.vidio">Nusantara TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="17139||0z-1HCIuNIckCKb0Cr3IrSLmHoY=____17139/e5207b.png" xmltv_id="SPOTV.vidio">SPOTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="17140||Z9gPYrVs6deWjpFWqnbCiElLz6k=____17140/18e12a.png" xmltv_id="SPOTV 2.vidio">SPOTV 2.vidio</channel>
+  <channel site="vidio.com_0" site_id="17875||omeJMGZAmXCAuE5mjeH6PYvOjPk=____17875/afb4ca.png" xmltv_id="Bein 2.vidio">Bein 2.vidio</channel>
+  <channel site="vidio.com_0" site_id="18189||R95tN93V4DS8kOYbvvHrEJgjVfM=____18189/8180b2.png" xmltv_id="Champions GOlf 1.vidio">Champions GOlf 1.vidio</channel>
+  <channel site="vidio.com_0" site_id="18190||LhWVwFmLVbVJeq0caSzh0iXz5oU=____18190/541269.png" xmltv_id="Champions GOlf 2.vidio">Champions GOlf 2.vidio</channel>
+  <channel site="vidio.com_0" site_id="18162||b_EQcfLp15EA8i8n06S0DNcjqyo=____18162/3895a5.png" xmltv_id="Garuda TV.vidio">Garuda TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="18280||fmJWnEMyft0gByge7U29Z0IAUQM=____18280/c7fc8f.png" xmltv_id="Berita Satu.vidio">Berita Satu.vidio</channel>
+  <channel site="vidio.com_0" site_id="20216||jWCAr7aSuc4AvvQ-KJjq3xH1KaE=____20216/1a9c41.png" xmltv_id="Champions Fight.vidio">Champions Fight.vidio</channel>
+  <channel site="vidio.com_0" site_id="19046||HwIfmxOGLIKB03toopIzIgFbzAo=____19046/aaa3fa.png" xmltv_id="Sin Po TV.vidio">Sin Po TV.vidio</channel>
+  <channel site="vidio.com_0" site_id="778||uj8BQQxA0_H_bX40VPk6x6Z-aYY=____778/810229.png" xmltv_id="GTV.vidio">GTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="5409||idNs0c-ropLtPx85oDsGvZTmkjU=____5409/c40666.png" xmltv_id="iNews.vidio">iNews.vidio</channel>
+  <channel site="vidio.com_0" site_id="870||ISnbOKLRmsaKkosLH6uWBsjDawk=____870/ca65b5.png" xmltv_id="MNCTV.vidio">MNCTV.vidio</channel>
+  <channel site="vidio.com_0" site_id="665||a5ZpTlVd_UxcprxeV7jnHlis55s=____665/337c4d.png" xmltv_id="RCTI.vidio">RCTI.vidio</channel>
+
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be43042758d8||36f75de0a5b543da8d17c46db9d44178.jpg" xmltv_id="Trans TV.cubmu">Trans TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be45631158d9||2165ad80418941528715202210307fb6.jpg" xmltv_id="Trans 7.cubmu">Trans 7.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4783ff58da||dd0e5afbeb2b4a7e802b4fbacce14991.png" xmltv_id="MetroTV.cubmu">MetroTV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4997e958db||e02f3053b96f4349ad8402d7b181d273.jpg" xmltv_id="CNN Indonesia.cubmu">CNN Indonesia.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="2c9f9082998232e0019b35ec15d55b66||84c7317cda80481c8cdcec5f742ff714.jpg" xmltv_id="tvOne.cubmu">tvOne.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4b82c758dc||b529965308b54d87b7ec9251f707e41a.jpg" xmltv_id="CNBC Indonesia.cubmu">CNBC Indonesia.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4d55ce58dd||7862982cb44d4e8bbc61a630beca66f6.png" xmltv_id="SCTV.cubmu">SCTV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be4f342858e9||295eb53a7aa04fbca2eeb58a3fab1f2f.png" xmltv_id="Indosiar.cubmu">Indosiar.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be51092e58f1||9eec8914d4f74ee5a5f4d988c2965902.png" xmltv_id="RCTI.cubmu">RCTI.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be52f87b58f2||ffb50ac11f9f42758882f58ff62273be.png" xmltv_id="GTV.cubmu">GTV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="2c9f9082998232e0019b35eccce85b67||f786d8e8e8e642f88d6465e251f92f4d.jpg" xmltv_id="ANTV.cubmu">ANTV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be55099d58fa||ccf6f558ffa645a28501c0bfc1de4f05.jpg" xmltv_id="Jak tv.cubmu">Jak tv.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be56c7d858fd||e1c8e9c35f844b84bffed06395734acc.png" xmltv_id="BTV.cubmu">BTV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be58644c5901||87b349f225fa4b0b839447d943a63b5f.jpg" xmltv_id="Kompas TV.cubmu">Kompas TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685758bcfff01776c4ea3520a72||d49166c427c647f0bbbdec08a80aedf5.png" xmltv_id="MDTV.cubmu">MDTV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be5cd0b15903||bb1a5397f68d42899630a14334c359aa.jpg" xmltv_id="rtv.cubmu">rtv.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be5ef52a5904||441b76dc2d004adda2945df43736dd02.png" xmltv_id="MNC TV.cubmu">MNC TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be6135dc5905||a6a05d485df64ea3839392bb1da7eeeb.png" xmltv_id="TVRI.cubmu">TVRI.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017ec407d96b7362||9c255af117004d72b8c8b45ebc64aedb.png" xmltv_id="jtv.cubmu">jtv.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6859645ee4801965cd2114b4431||1f6507213c714e3c88e81200c15287d8.png" xmltv_id="Berita Satu.cubmu">Berita Satu.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6859645ee4801965cf074994bf2||c9b2c23789604537965fb321575ce869.jpg" xmltv_id="Garuda TV.cubmu">Garuda TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be26e4325724||df2bd1819bb74e2ea38e40ebf9d60e14.png" xmltv_id="Bioskop Indonesia.cubmu">Bioskop Indonesia.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060ae0aa740bb||39e0cbc9c8e0477591d7993555146bd6.jpg" xmltv_id="Movies News.cubmu">Movies News.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b64d0742be1||e00b58b6aaa1455c82d8980c3f90c98c.jpg" xmltv_id="Cartoon TV Premium.cubmu">Cartoon TV Premium.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b65fa882be2||1aa82a2c32ca49698d23ddeec560c48c.jpg" xmltv_id="Cartoon TV.cubmu">Cartoon TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be1f09275720||cdf3a2185da14403a42ca58f74f261c0.png" xmltv_id="Dunia Anak.cubmu">Dunia Anak.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846166f4d93e5e||af61929b5f3b419da7e3d407ce601dbb.jpg" xmltv_id="Cartoon TV Classics.cubmu">Cartoon TV Classics.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b6764522be3||982842a26aea41cb980ece08814c337b.jpg" xmltv_id="Knowledge+.cubmu">Knowledge+.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be2463495723||9d3f40f80c0340f58a26da2cf9303cc0.jpg" xmltv_id="CGTN Documentary.cubmu">CGTN Documentary.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685910daca60191a8636d706700||9de75a26d8dc40abbe73993699da1a3e.jpg" xmltv_id="Channel Jowo.cubmu">Channel Jowo.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be292d655725||38d70128854b459b87ca947e19c982f8.png" xmltv_id="!nsert.cubmu">!nsert.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be2db0a25728||1d04ef38955743af9ac051beba87b578.png" xmltv_id="Dunia Lain.cubmu">Dunia Lain.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857f48ecd2017f5e95744613e2||a1661944195a4892866518881010e2ef.png" xmltv_id="CCTV 4.cubmu">CCTV 4.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be39494458d4||5f461fc9b75a46e8929a14e8c267c612.png" xmltv_id="TV5 Monde.cubmu">TV5 Monde.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff04901846166123a3e5d||d6deb40598b2485793627e62c336070f.jpg" xmltv_id="One TV.cubmu">One TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060aab83c40b9||1f60c0e2a14d4a26b0316f31aad41cbf.jpg" xmltv_id="Travel TV.cubmu">Travel TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be3daa5c58d6||073cb14d55e54ce58f028f2d74649f02.png" xmltv_id="Eat N Go.cubmu">Eat N Go.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060ac364140ba||ce2a74e0b12149dd92e67d92281020d0.jpg" xmltv_id="Fashion TV.cubmu">Fashion TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b6a98a62be4||f62c0a99f8974641a4589ad7b757f8f3.jpg" xmltv_id="Cooking TV.cubmu">Cooking TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858119921801816b5359d15e63||6dad5dffdfa845ba8387b8f2192b1ed5.jpg" xmltv_id="Gaming TV.cubmu">Gaming TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858f902547018fccae36ec12b0||0599e44bb5f542f78269679c54286ebe.jpg" xmltv_id="DENS Food Channel.cubmu">DENS Food Channel.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858f902547018fccb15a5212b1||21158a2d854d43ecaf53e0c60c10aa18.jpg" xmltv_id="DENS PLAY Channel.cubmu">DENS PLAY Channel.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060b4163a40be||73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" xmltv_id="SuperYacht TV.cubmu">SuperYacht TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858f902547018fccb23c8c12b2||a77aa9f00762427daaa96ee606d46f6e.jpg" xmltv_id="DENS ShowBiz.cubmu">DENS ShowBiz.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017ec528dc550e98||bca939f249ba4f6d8af93435d18d37a5.jpg" xmltv_id="Musik Indonesia.cubmu">Musik Indonesia.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c685840ff0490184616d5ba53e65||4201fdcf9a0d47d5b5612ec3f732c9bd.jpg" xmltv_id="Song TV.cubmu">Song TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be3b835358d5||83751a329db441d083a07f7e9dd02271.png" xmltv_id="ABC Australia.cubmu">ABC Australia.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174bdfa7e13514f||1548202f64854965af774c877aa3b2b4.png" xmltv_id="CNA.cubmu">CNA.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174bdfe22ee5150||141ea9331d7d4312bca2491c742a3b01.png" xmltv_id="Al Jazeera.cubmu">Al Jazeera.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857e04fca5017f310a21613e4e||a809d067e38a464a90a0d89204a8a6d2.png" xmltv_id="Euronews.cubmu">Euronews.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be0c2f975152||d9c5005b9f4a4608a3d647ec7e335581.png" xmltv_id="France 24.cubmu">France 24.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be13661a571d||ef09e82b1b1d43d896d71a1cbbd6146d.jpg" xmltv_id="CGTN.cubmu">CGTN.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be167d8a571e||7de95bc6b2744449ad5bf76bf8a98935.jpg" xmltv_id="Russia Today.cubmu">Russia Today.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be1c9566571f||5558eb5b72bd49a2a917c3a7e60449eb.png" xmltv_id="Arirang.cubmu">Arirang.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857f48ecd2017f5e9c23f413e8||71cccc8985684c04808edf417b5ab89e.png" xmltv_id="Wion TV.cubmu">Wion TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b101750641670b540e||dbdafb9c7d1d4f9695059cd544f6f323.png" xmltv_id="Al Quran Al Kareem.cubmu">Al Quran Al Kareem.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b1017506651f835414||f0da8399b6474e2287b0c44de8cdca8b.jpg" xmltv_id="tv Mu.cubmu">tv Mu.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b101750667e76e5415||0c3849b964b943c888c667104596ff7b.jpg" xmltv_id="TV9.cubmu">TV9.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68588e2da5a01892e47e9d64b5e||8091ca0383df4ad89345991012dbc4d3.jpg" xmltv_id="Nabawi TV.cubmu">Nabawi TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68598610fad0198f5b2f3694a60||9478019d293a4cabb697fea029a38f92.jpg" xmltv_id="DayStar.cubmu">DayStar.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be5a48505902||c86c1884dc50452aae2be2f0fd15d78f.jpg" xmltv_id="DAAI TV.cubmu">DAAI TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574f658b1017506741c665418||f37dcbd1fbf445e3a9900537f1778f63.jpg" xmltv_id="Pijar TV.cubmu">Pijar TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be3fbd2f58d7||86556e8bfa3d423e97038d36c040e6fd.png" xmltv_id="Khazanah.cubmu">Khazanah.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68598610fad0198875a95322b98||2fad77ff8ed94402b84db2a47e52c48c.jpg" xmltv_id="GOLF PLUS ID.cubmu">GOLF PLUS ID.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858262bb8001827b703a262be7||8cc7a41bcc724b4ea668a5ca1aecac90.jpg" xmltv_id="Football TV.cubmu">Football TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060afdef540bc||5e2d673bff2f48cc8b8bf76018911952.jpg" xmltv_id="Sports TV.cubmu">Sports TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060a4379740b7||85457b08d53449118c75e2f51186ddcb.jpg" xmltv_id="Xtrem Sports.cubmu">Xtrem Sports.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060b2307340bd||086909c32b7a426eae75792a891c9d8f.jpg" xmltv_id="Speed TV.cubmu">Speed TV.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6857fe540a1018060a0c34340b6||b3884938fdda48e49561e7e27024a00c.jpg" xmltv_id="Fight TV Premium.cubmu">Fight TV Premium.cubmu</channel>
+  <channel site="[ENC][EX]cubmu.com_0" site_id="4028c6858d6351f0018dc0100d513246||393b382b27e14f9b9b7843ddcb69298f.jpg" xmltv_id="PSJ TV.cubmu">PSJ TV.cubmu</channel>
+
+  <channel site="indihometv.com_0" site_id="discoveryasia" xmltv_id="Discovery Asia.indi">Discovery Asia.indi</channel>
+  <channel site="indihometv.com_0" site_id="rcti" xmltv_id="RCTI.indi">RCTI.indi</channel>
+  <channel site="indihometv.com_0" site_id="mnctv" xmltv_id="MNC.indi">MNC.indi</channel>
+  <channel site="indihometv.com_0" site_id="hitsnow" xmltv_id="HITS Now.indi">HITS Now.indi</channel>
+  <channel site="indihometv.com_0" site_id="globaltv" xmltv_id="GTV.indi">GTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="animalplanet" xmltv_id="Animal Planet.indi">Animal Planet.indi</channel>
+  <channel site="indihometv.com_0" site_id="lovenature" xmltv_id="Love Nature.indi">Love Nature.indi</channel>
+  <channel site="indihometv.com_0" site_id="maxstream" xmltv_id="Maxstream.indi">Maxstream.indi</channel>
+  <channel site="indihometv.com_0" site_id="curiosity" xmltv_id="Curiosity.indi">Curiosity.indi</channel>
+  <channel site="indihometv.com_0" site_id="studiouniversal" xmltv_id="Studio Universal.indi">Studio Universal.indi</channel>
+  <channel site="indihometv.com_0" site_id="bbcnews" xmltv_id="BBC News.indi">BBC News.indi</channel>
+  <channel site="indihometv.com_0" site_id="cbeebies" xmltv_id="CBeebies.indi">CBeebies.indi</channel>
+  <channel site="indihometv.com_0" site_id="useeprime" xmltv_id="MAXReels.indi">MAXReels.indi</channel>
+  <channel site="indihometv.com_0" site_id="maxstreak" xmltv_id="MAXStreak.indi">MAXStreak.indi</channel>
+  <channel site="indihometv.com_0" site_id="indikids" xmltv_id="MAXKids.indi">MAXKids.indi</channel>
+  <channel site="indihometv.com_0" site_id="transtv" xmltv_id="TransTV.indi">TransTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="trans7" xmltv_id="Trans7.indi">Trans7.indi</channel>
+  <channel site="indihometv.com_0" site_id="tvone" xmltv_id="TV One.indi">TV One.indi</channel>
+  <channel site="indihometv.com_0" site_id="antv" xmltv_id="ANTV.indi">ANTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="metrotv" xmltv_id="Metro TV.indi">Metro TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="kompastv" xmltv_id="Kompas TV.indi">Kompas TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="maxeats" xmltv_id="MAXEats.indi">MAXEats.indi</channel>
+  <channel site="indihometv.com_0" site_id="net" xmltv_id="MDTV.indi">MDTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="inews" xmltv_id="iNews.indi">iNews.indi</channel>
+  <channel site="indihometv.com_0" site_id="tvri" xmltv_id="TVRI.indi">TVRI.indi</channel>
+  <channel site="indihometv.com_0" site_id="rtv" xmltv_id="Rajawali TV.indi">Rajawali TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="rodjatv" xmltv_id="Rodja TV.indi">Rodja TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="jtv" xmltv_id="JTV.indi">JTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="mncnews" xmltv_id="SINDO News TV.indi">SINDO News TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="idtv" xmltv_id="BeritaSatu.indi">BeritaSatu.indi</channel>
+  <channel site="indihometv.com_0" site_id="beritasatu" xmltv_id="BTV.indi">BTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="balitv" xmltv_id="Bali TV.indi">Bali TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="mqtv" xmltv_id="MQTV.indi">MQTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="mtatv" xmltv_id="MTATV.indi">MTATV.indi</channel>
+  <channel site="indihometv.com_0" site_id="daaitv" xmltv_id="Daai TV.indi">Daai TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="alquran" xmltv_id="AlQuran Kareem.indi">AlQuran Kareem.indi</channel>
+  <channel site="indihometv.com_0" site_id="jaktv" xmltv_id="JakTV.indi">JakTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="nusantaratv" xmltv_id="Nusantara TV.indi">Nusantara TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="antara" xmltv_id="Antara.indi">Antara.indi</channel>
+  <channel site="indihometv.com_0" site_id="muhammadiyahtv" xmltv_id="Muhammadiyah TV.indi">Muhammadiyah TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="pramborstv" xmltv_id="Prambors.indi">Prambors.indi</channel>
+  <channel site="indihometv.com_0" site_id="idx" xmltv_id="IDX.indi">IDX.indi</channel>
+  <channel site="indihometv.com_0" site_id="arirang" xmltv_id="Arirang.indi">Arirang.indi</channel>
+  <channel site="indihometv.com_0" site_id="jawapos" xmltv_id="Jawa Pos TV.indi">Jawa Pos TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="muitv" xmltv_id="MUI TV.indi">MUI TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="tawaftv" xmltv_id="DMI TV.indi">DMI TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="tv9" xmltv_id="TV9 NU.indi">TV9 NU.indi</channel>
+  <channel site="indihometv.com_0" site_id="musikindo" xmltv_id="Musik Indonesia.indi">Musik Indonesia.indi</channel>
+  <channel site="indihometv.com_0" site_id="uchannel" xmltv_id="UChannel.indi">UChannel.indi</channel>
+  <channel site="indihometv.com_0" site_id="cctv4" xmltv_id="CCTV4.indi">CCTV4.indi</channel>
+  <channel site="indihometv.com_0" site_id="dwtv" xmltv_id="DW (English).indi">DW (English).indi</channel>
+  <channel site="indihometv.com_0" site_id="nhkworld" xmltv_id="nhk world Japan.indi">nhk world Japan.indi</channel>
+  <channel site="indihometv.com_0" site_id="abcaustralia" xmltv_id="ABC Australia.indi">ABC Australia.indi</channel>
+  <channel site="indihometv.com_0" site_id="chinesedrama" xmltv_id="Chinese Drama.indi">Chinese Drama.indi</channel>
+  <channel site="indihometv.com_0" site_id="euronews" xmltv_id="Euronews.indi">Euronews.indi</channel>
+  <channel site="indihometv.com_0" site_id="atv" xmltv_id="ATV.indi">ATV.indi</channel>
+  <channel site="indihometv.com_0" site_id="france24" xmltv_id="France 24.indi">France 24.indi</channel>
+  <channel site="indihometv.com_0" site_id="cgtndocumentary" xmltv_id="CGTN Documentary.indi">CGTN Documentary.indi</channel>
+  <channel site="indihometv.com_0" site_id="sctv" xmltv_id="SCTV.indi">SCTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="indosiar" xmltv_id="Indosiar.indi">Indosiar.indi</channel>
+  <channel site="indihometv.com_0" site_id="phoenixchinese" xmltv_id="Phoenix Chinese.indi">Phoenix Chinese.indi</channel>
+  <channel site="indihometv.com_0" site_id="useesport" xmltv_id="MAXSport.indi">MAXSport.indi</channel>
+  <channel site="indihometv.com_0" site_id="rusiatv" xmltv_id="Russia Today.indi">Russia Today.indi</channel>
+  <channel site="indihometv.com_0" site_id="bein1" xmltv_id="SPOTV.indi">SPOTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="bein2" xmltv_id="SPOTV 2.indi">SPOTV 2.indi</channel>
+  <channel site="indihometv.com_0" site_id="nba" xmltv_id="NBA.indi">NBA.indi</channel>
+  <channel site="indihometv.com_0" site_id="horizonsport" xmltv_id="Horizon Sports.indi">Horizon Sports.indi</channel>
+  <channel site="indihometv.com_0" site_id="fightsport" xmltv_id="Fight Sport.indi">Fight Sport.indi</channel>
+  <channel site="indihometv.com_0" site_id="tvnmovies" xmltv_id="TVN Movies.indi">TVN Movies.indi</channel>
+  <channel site="indihometv.com_0" site_id="imc" xmltv_id="IMC.indi">IMC.indi</channel>
+  <channel site="indihometv.com_0" site_id="galaxypremium" xmltv_id="Galaxy Premium.indi">Galaxy Premium.indi</channel>
+  <channel site="indihometv.com_0" site_id="galaxy" xmltv_id="Galaxy.indi">Galaxy.indi</channel>
+  <channel site="indihometv.com_0" site_id="hits" xmltv_id="Hits.indi">Hits.indi</channel>
+  <channel site="indihometv.com_0" site_id="hitsmovie" xmltv_id="HIts Movie.indi">HIts Movie.indi</channel>
+  <channel site="indihometv.com_0" site_id="flik" xmltv_id="Flik.indi">Flik.indi</channel>
+  <channel site="indihometv.com_0" site_id="bioskopindonesia" xmltv_id="Bioskop Indonesia.indi">Bioskop Indonesia.indi</channel>
+  <channel site="indihometv.com_0" site_id="celestialmovie" xmltv_id="Celestial Movie.indi">Celestial Movie.indi</channel>
+  <channel site="indihometv.com_0" site_id="zbioskop" xmltv_id="ZBioskop.indi">ZBioskop.indi</channel>
+  <channel site="indihometv.com_0" site_id="thrill" xmltv_id="Thrill.indi">Thrill.indi</channel>
+  <channel site="indihometv.com_0" site_id="cinemaworld" xmltv_id="Cinema World.indi">Cinema World.indi</channel>
+  <channel site="indihometv.com_0" site_id="cnnindonesia" xmltv_id="CNN Indonesia.indi">CNN Indonesia.indi</channel>
+  <channel site="indihometv.com_0" site_id="cnbcindonesia" xmltv_id="CNBC Indonesia.indi">CNBC Indonesia.indi</channel>
+  <channel site="indihometv.com_0" site_id="bloomberg" xmltv_id="BLOOMBERG.indi">BLOOMBERG.indi</channel>
+  <channel site="indihometv.com_0" site_id="newsasia" xmltv_id="News Asia.indi">News Asia.indi</channel>
+  <channel site="indihometv.com_0" site_id="cnninternational" xmltv_id="CNN International.indi">CNN International.indi</channel>
+  <channel site="indihometv.com_0" site_id="aljazeera" xmltv_id="Aljazeera.indi">Aljazeera.indi</channel>
+  <channel site="indihometv.com_0" site_id="cnbcasia" xmltv_id="CNBC Asia.indi">CNBC Asia.indi</channel>
+  <channel site="indihometv.com_0" site_id="tvbs" xmltv_id="TVBS News.indi">TVBS News.indi</channel>
+  <channel site="indihometv.com_0" site_id="tvn" xmltv_id="TVN.indi">TVN.indi</channel>
+  <channel site="indihometv.com_0" site_id="axn" xmltv_id="AXN.indi">AXN.indi</channel>
+  <channel site="indihometv.com_0" site_id="kplus" xmltv_id="Kplus.indi">Kplus.indi</channel>
+  <channel site="indihometv.com_0" site_id="kbsworld" xmltv_id="KBS World.indi">KBS World.indi</channel>
+  <channel site="indihometv.com_0" site_id="cdrama" xmltv_id="Citra Drama.indi">Citra Drama.indi</channel>
+  <channel site="indihometv.com_0" site_id="warner" xmltv_id="Warner.indi">Warner.indi</channel>
+  <channel site="indihometv.com_0" site_id="blueantextreme" xmltv_id="Rock Action.indi">Rock Action.indi</channel>
+  <channel site="indihometv.com_0" site_id="tlc" xmltv_id="TLC.indi">TLC.indi</channel>
+  <channel site="indihometv.com_0" site_id="history" xmltv_id="History.indi">History.indi</channel>
+  <channel site="indihometv.com_0" site_id="dunialain" xmltv_id="Dunia Lain.indi">Dunia Lain.indi</channel>
+  <channel site="indihometv.com_0" site_id="blueant" xmltv_id="Rock Entertainment.indi">Rock Entertainment.indi</channel>
+  <channel site="indihometv.com_0" site_id="aniplus" xmltv_id="Aniplus.indi">Aniplus.indi</channel>
+  <channel site="indihometv.com_0" site_id="animax" xmltv_id="Animax.indi">Animax.indi</channel>
+  <channel site="indihometv.com_0" site_id="sone" xmltv_id="SONE.indi">SONE.indi</channel>
+  <channel site="indihometv.com_0" site_id="kix" xmltv_id="Kix.indi">Kix.indi</channel>
+  <channel site="indihometv.com_0" site_id="lifetime" xmltv_id="Lifetime.indi">Lifetime.indi</channel>
+  <channel site="indihometv.com_0" site_id="tv5monde" xmltv_id="TV5Monde.indi">TV5Monde.indi</channel>
+  <channel site="indihometv.com_0" site_id="zhejiang" xmltv_id="Zhejiang.indi">Zhejiang.indi</channel>
+  <channel site="indihometv.com_0" site_id="shenzen" xmltv_id="Shenzen.indi">Shenzen.indi</channel>
+  <channel site="indihometv.com_0" site_id="cartoonnetwork" xmltv_id="Cartoon Network.indi">Cartoon Network.indi</channel>
+  <channel site="indihometv.com_0" site_id="horee" xmltv_id="Horee.indi">Horee.indi</channel>
+  <channel site="indihometv.com_0" site_id="nickjr" xmltv_id="Nick Junior.indi">Nick Junior.indi</channel>
+  <channel site="indihometv.com_0" site_id="dreamworks" xmltv_id="Dreamworks.indi">Dreamworks.indi</channel>
+  <channel site="indihometv.com_0" site_id="nickelodeon" xmltv_id="Nickelodeon.indi">Nickelodeon.indi</channel>
+  <channel site="indihometv.com_0" site_id="duniaanak" xmltv_id="Dunia anak.indi">Dunia anak.indi</channel>
+  <channel site="indihometv.com_0" site_id="boomerang" xmltv_id="Cartoonito.indi">Cartoonito.indi</channel>
+  <channel site="indihometv.com_0" site_id="mykids" xmltv_id="MyKidz.indi">MyKidz.indi</channel>
+  <channel site="indihometv.com_0" site_id="mentaritv" xmltv_id="Mentari TV.indi">Mentari TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="davinci" xmltv_id="Da Vinci Learning.indi">Da Vinci Learning.indi</channel>
+  <channel site="indihometv.com_0" site_id="disco" xmltv_id="Discovery Channel.indi">Discovery Channel.indi</channel>
+  <channel site="indihometv.com_0" site_id="crimeinvestigation" xmltv_id="Crime Investigation.indi">Crime Investigation.indi</channel>
+  <channel site="indihometv.com_0" site_id="afc" xmltv_id="Asian Food Network.indi">Asian Food Network.indi</channel>
+  <channel site="indihometv.com_0" site_id="hgtv" xmltv_id="HGTV.indi">HGTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="fashiontv" xmltv_id="FashionTV.indi">FashionTV.indi</channel>
+  <channel site="indihometv.com_0" site_id="citradangdut" xmltv_id="Citra Dangdut.indi">Citra Dangdut.indi</channel>
+  <channel site="indihometv.com_0" site_id="ochannel" xmltv_id="MOJI.indi">MOJI.indi</channel>
+  <channel site="indihometv.com_0" site_id="moonbug" xmltv_id="Moonbug.indi">Moonbug.indi</channel>
+  <channel site="indihometv.com_0" site_id="newtvcomprehensive" xmltv_id="New Tv Comprehensive.indi">New Tv Comprehensive.indi</channel>
+  <channel site="indihometv.com_0" site_id="newtvfinance" xmltv_id="New Tv Finance.indi">New Tv Finance.indi</channel>
+  <channel site="indihometv.com_0" site_id="newtvvariety" xmltv_id="New Tv Variety.indi">New Tv Variety.indi</channel>
+  <channel site="indihometv.com_0" site_id="phoenixinfonews" xmltv_id="Phoenix InfoNews.indi">Phoenix InfoNews.indi</channel>
+  <channel site="indihometv.com_0" site_id="sinpotv" xmltv_id="SINPO TV.indi">SINPO TV.indi</channel>
+  <channel site="indihometv.com_0" site_id="tvriworld" xmltv_id="TVRI WORLD.indi">TVRI WORLD.indi</channel>
+  <channel site="indihometv.com_0" site_id="hbofamily" xmltv_id="HBO FAMILY.indi">HBO FAMILY.indi</channel>
+  <channel site="indihometv.com_0" site_id="hbo" xmltv_id="HBO.indi">HBO.indi</channel>
+  <channel site="indihometv.com_0" site_id="hbohits" xmltv_id="hbo hits.indi">hbo hits.indi</channel>
+  <channel site="indihometv.com_0" site_id="hbosignature" xmltv_id="HBO Signature.indi">HBO Signature.indi</channel>
+  <channel site="indihometv.com_0" site_id="cinemax" xmltv_id="CINEMAX.indi">CINEMAX.indi</channel>
+
+</configuration>
