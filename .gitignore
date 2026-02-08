@@ -5,3 +5,4 @@ tempest_config/temp/
 *.sh
 *.bat
 *.cmd
+*.py
