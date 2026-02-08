@@ -22,9 +22,8 @@
 <!--  <channel site="[ENC][EX]cubmu.com_0" 
 site_id="4028c68574537fcd0174bdfa7e13514f||1548202f64854965af774c877aa3b2b4.png" xmltv_id="CNA.indon">CNA.indon</channel>
 -->
-    <channel site="[ENC]mncvision.id_0" site_id="1" xmltv_id="Vision Prime HD - [Channel 1]">Vision Prime HD - [Channel 1]</channel>
-
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000044||612/612-LOGO-m.png" xmltv_id="Celestial Movies">Celestial Movies</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000114||654/654-LOGO-m.png" xmltv_id="Sportstars 3">Sportstars 3</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000205||691/691-LOGO-m.png" xmltv_id="Sportstars 4">Sportstars 4</channel>
 
 
 </configuration>
