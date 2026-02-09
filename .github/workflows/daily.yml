@@ -23,7 +23,7 @@ jobs:
       - name: Run Tempest script
         run: |
           mkdir -p tempest_config/epg
-          php tempest.php --epg config=tempest invgz
+          php tempest.php --epg config=tempest.config.xml gz rm_dupe_id=on rm_dupe_name=on
           ls -lah tempest_config/epg
 
       - name: Commit generated files
