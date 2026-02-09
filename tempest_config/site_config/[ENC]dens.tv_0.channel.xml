@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git" site="[ENC]dens.tv_0">
   <channels>
-    <channel site="[ENC]dens.tv_0" site_id="3||1687501154_tvchannels_v1.jpg" xmltv_id="Live Streaming 1">Live Streaming 1</channel>
     <channel site="[ENC]dens.tv_0" site_id="75||1692758975_tvchannels_v1.jpg" xmltv_id="NaDoo Commerce">NaDoo Commerce</channel>
     <channel site="[ENC]dens.tv_0" site_id="126||1692691581_tvchannels_v1.jpg" xmltv_id="NaDooKorean">NaDooKorean</channel>
     <channel site="[ENC]dens.tv_0" site_id="107||1687501248_tvchannels_v1.jpg" xmltv_id="DensPlay">DensPlay</channel>
     <channel site="[ENC]dens.tv_0" site_id="42||1687501284_tvchannels_v1.jpg" xmltv_id="DensLife &amp; Style">DensLife &amp; Style</channel>
-    <channel site="[ENC]dens.tv_0" site_id="1||1701335417_tvchannels_v1.jpg" xmltv_id="DensKnowledge">DensKnowledge</channel>
     <channel site="[ENC]dens.tv_0" site_id="102||1687501370_tvchannels_v1.jpg" xmltv_id="DensShowBiz">DensShowBiz</channel>
     <channel site="[ENC]dens.tv_0" site_id="117||1687501416_tvchannels_v1.jpg" xmltv_id="DensFood Channel">DensFood Channel</channel>
     <channel site="[ENC]dens.tv_0" site_id="6||1687501451_tvchannels_v1.jpg" xmltv_id="Metro TV">Metro TV</channel>
@@ -82,6 +80,10 @@
     <channel site="[ENC]dens.tv_0" site_id="142||wedo-tv-big-stories340x160@3x@3x.jpg" xmltv_id="WeDo Amor">WeDo Amor</channel>
     <channel site="[ENC]dens.tv_0" site_id="143||1744344467_tvchannels_v1.jpg" xmltv_id="QWEST TV">QWEST TV</channel>
     <channel site="[ENC]dens.tv_0" site_id="144||1745830848_tvchannels_v1.jpg" xmltv_id="RT">RT</channel>
+
+<!-- no show -->
+    <channel site="[ENC]dens.tv_0" site_id="1||1701335417_tvchannels_v1.jpg" xmltv_id="DensKnowledge">DensKnowledge</channel>
+    <channel site="[ENC]dens.tv_0" site_id="3||1687501154_tvchannels_v1.jpg" xmltv_id="Live Streaming 1">Live Streaming 1</channel>
     <channel site="[ENC]dens.tv_0" site_id="117||1740651682_tvchannels_v1.jpg" xmltv_id="Ramadhan Channel">Ramadhan Channel</channel>
   </channels>
 </site>

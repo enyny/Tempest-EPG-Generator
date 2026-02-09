@@ -22,8 +22,8 @@
 <!--  <channel site="[ENC][EX]cubmu.com_0" 
 site_id="4028c68574537fcd0174bdfa7e13514f||1548202f64854965af774c877aa3b2b4.png" xmltv_id="CNA.indon">CNA.indon</channel>
 -->
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000114||654/654-LOGO-m.png" xmltv_id="Sportstars 3">Sportstars 3</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000205||691/691-LOGO-m.png" xmltv_id="Sportstars 4">Sportstars 4</channel>
-
-
+    <channel site="[ENC]dens.tv_0" site_id="139||wedo-tv-big-stories340x160@3x@3x.jpg" xmltv_id="WeDo Movie">WeDo Movie</channel>
+    <channel site="[ENC]dens.tv_0" site_id="140||wedo-tv-big-stories340x160@3x@3x.jpg" xmltv_id="WeDo Big Stories">WeDo Big Stories</channel>
+    <channel site="[ENC]dens.tv_0" site_id="141||wedo-tv-sports340x160@3x@3x.jpg" xmltv_id="WeDo Sports">WeDo Sports</channel>
+    <channel site="[ENC]dens.tv_0" site_id="142||wedo-tv-big-stories340x160@3x@3x.jpg" xmltv_id="WeDo Amor">WeDo Amor</channel>
 </configuration>
