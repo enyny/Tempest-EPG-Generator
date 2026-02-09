@@ -4,8 +4,8 @@
   <filename>guide.xml</filename>
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36</user-agent>
   <logger>off</logger>
-  <retry>2</retry>
-  <time-out>8</time-out>
+  <retry>1</retry>
+  <time-out>3</time-out>
   <timespan>7</timespan>
   <proxy/>
   <index-only>off</index-only>
