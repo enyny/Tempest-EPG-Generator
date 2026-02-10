@@ -51,7 +51,6 @@
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001016||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 7">V+ LIVE 7</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000134||659/659-LOGO-m.png" xmltv_id="IDX">IDX</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000130||672/493672-LOGO-m.png" xmltv_id="BBC World">BBC World</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000131||365/132365-LOGO-m.png" xmltv_id="CNBC Asia">CNBC Asia</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000132||662/662-LOGO-m.png" xmltv_id="FOX News">FOX News</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000133||663/663-LOGO-m.png" xmltv_id="Bloomberg">Bloomberg</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000137||664/664-LOGO-m.png" xmltv_id="Muslim TV">Muslim TV</channel>
@@ -82,7 +81,6 @@
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000160||853/853-LOGO-m.png" xmltv_id="Hunan TV">Hunan TV</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000161||685/685-LOGO-m.png" xmltv_id="Jiangsu TV">Jiangsu TV</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000162||686/686-LOGO-m.png" xmltv_id="NHK">NHK</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000163||687/687-LOGO-m.png" xmltv_id="TV5Monde">TV5Monde</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000164||688/688-LOGO-m.png" xmltv_id="Arirang">Arirang</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000165||689/689-LOGO-m.png" xmltv_id="ABC">ABC</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000204||427/173427-LOGO-m.png" xmltv_id="Drama World">Drama World</channel>
@@ -138,6 +136,9 @@
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000205||691/691-LOGO-m.png" xmltv_id="Sportstars 4">Sportstars 4</channel>
 
 <!-- old -->
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000131||365/132365-LOGO-m.png" xmltv_id="CNBC Asia">CNBC Asia</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000163||687/687-LOGO-m.png" xmltv_id="TV5Monde">TV5Monde</channel>
+
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000047||615/615-LOGO-m.png" xmltv_id="Zee Bioskop">Zee Bioskop</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000051||619/619-LOGO-m.png" xmltv_id="My Family Channel">My Family Channel</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000052||620/620-LOGO-m.png" xmltv_id="My Cinema">My Cinema</channel>
