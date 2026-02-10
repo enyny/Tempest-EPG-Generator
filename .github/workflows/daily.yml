@@ -31,7 +31,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions@github.com"
 
-          git add -f tempest_config/epg/guide.xml tempest_config/epg/*.gz
+          git add -f tempest_config/epg/*.xml tempest_config/epg/*.gz
 
           git commit -m "Update Tempest EPG data" || echo "No changes"
           git push
