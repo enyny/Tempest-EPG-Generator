@@ -83,21 +83,59 @@
     <channel site="vidio.com_0" site_id="18622||a_R11gFNIXuNsUiqJ6Tsj-45lqE=____18622/d20ab7.png" xmltv_id="Daystar TV.vidi">Daystar TV.vidi</channel>
     <channel site="vidio.com_0" site_id="12784||gxp9cK9zfpgAKXUUuVc7SYF1q1g=____12784/b75a42.png" xmltv_id="Africanews.vidi">Africanews.vidi</channel>
 
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000001||580/580-LOGO-m.png" xmltv_id="RCTI.visi">RCTI.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000002||581/581-LOGO-m.png" xmltv_id="MNCTV.visi">MNCTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000003||582/582-LOGO-m.png" xmltv_id="GTV.visi">GTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000004||583/583-LOGO-m.png" xmltv_id="iNews.visi">iNews.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000005||584/584-LOGO-m.png" xmltv_id="SindoNews.visi">SindoNews.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000006||585/585-LOGO-m.png" xmltv_id="Trans TV.visi">Trans TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000007||586/586-LOGO-m.png" xmltv_id="Trans 7.visi">Trans 7.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000008||062/569062-LOGO-m.png" xmltv_id="SCTV.visi">SCTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000009||066/569066-LOGO-m.png" xmltv_id="Indosiar.visi">Indosiar.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000010||587/587-LOGO-m.png" xmltv_id="ANTV.visi">ANTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000011||588/588-LOGO-m.png" xmltv_id="RTV.visi">RTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000012||589/589-LOGO-m.png" xmltv_id="TVOne.visi">TVOne.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000013||590/590-LOGO-m.png" xmltv_id="Kompas TV.visi">Kompas TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000014||591/591-LOGO-m.png" xmltv_id="Metro TV.visi">Metro TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000015||357/273357-LOGO-m.png" xmltv_id="BTV.visi">BTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000016||593/593-LOGO-m.png" xmltv_id="TVRI.visi">TVRI.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000018||595/595-LOGO-m.png" xmltv_id="DAAI TV.visi">DAAI TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000019||070/569070-LOGO-m.png" xmltv_id="Moji.visi">Moji.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000020||074/569074-LOGO-m.png" xmltv_id="Mentari TV.visi">Mentari TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000023||334/320334-LOGO-m.png" xmltv_id="MDTV.visi">MDTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000024||856/856-LOGO-m.png" xmltv_id="JTV.visi">JTV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000025||598/598-LOGO-m.png" xmltv_id="JAK TV.visi">JAK TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000026||700/700-LOGO-m.png" xmltv_id="Bali TV.visi">Bali TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000027||600/600-LOGO-m.png" xmltv_id="Bandung TV.visi">Bandung TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000028||601/601-LOGO-m.png" xmltv_id="TV 9.visi">TV 9.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000029||839/437839-LOGO-m.png" xmltv_id="DMI TV.visi">DMI TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000030||603/603-LOGO-m.png" xmltv_id="TV MU.visi">TV MU.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000036||360/273360-LOGO-m.png" xmltv_id="Originals.visi">Originals.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000037||392/273392-LOGO-m.png" xmltv_id="Buddy Star.visi">Buddy Star.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000038||397/273397-LOGO-m.png" xmltv_id="Uniques.visi">Uniques.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000039||394/273394-LOGO-m.png" xmltv_id="Superrix.visi">Superrix.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000040||376/273376-LOGO-m.png" xmltv_id="Cineedge.visi">Cineedge.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000041||609/609-LOGO-m.png" xmltv_id="Thrill.visi">Thrill.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000042||610/610-LOGO-m.png" xmltv_id="Hits Movies.visi">Hits Movies.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000044||612/612-LOGO-m.png" xmltv_id="Celestial Movies.visi">Celestial Movies.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000045||613/613-LOGO-m.png" xmltv_id="CCM.visi">CCM.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000046||614/614-LOGO-m.png" xmltv_id="TVN Movies.visi">TVN Movies.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000047||277/410277-LOGO-m.png" xmltv_id="Zee Bioskop.visi">Zee Bioskop.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000048||616/616-LOGO-m.png" xmltv_id="GALAXY PREMIUM.visi">GALAXY PREMIUM.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000049||617/617-LOGO-m.png" xmltv_id="GALAXY.visi">GALAXY.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000056||623/623-LOGO-m.png" xmltv_id="Kids TV.visi">Kids TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000058||670/493670-LOGO-m.png" xmltv_id="Cbeebies.visi">Cbeebies.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001008||817/138817-LOGO-m.png" xmltv_id="R+ LIVE.visi">R+ LIVE.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000060||147/75147-LOGO-m.png" xmltv_id="Nick Jr.visi">Nick Jr.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000050||342/10342-LOGO-m.png" xmltv_id="IMC (Indonesia Movie Channel).visi">IMC (Indonesia Movie Channel).visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000054||114/345114-LOGO-m.png" xmltv_id="Studio Universal.visi">Studio Universal.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000056||623/623-LOGO-m.png" xmltv_id="Kids TV.visi">Kids TV.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000057||909/162909-LOGO-m.png" xmltv_id="Moonbug.visi">Moonbug.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000058||670/493670-LOGO-m.png" xmltv_id="Cbeebies.visi">Cbeebies.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000060||147/75147-LOGO-m.png" xmltv_id="Nick Jr.visi">Nick Jr.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000063||626/626-LOGO-m.png" xmltv_id="Zoo Moo.visi">Zoo Moo.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000064||627/627-LOGO-m.png" xmltv_id="Nick.visi">Nick.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000065||628/628-LOGO-m.png" xmltv_id="Animax.visi">Animax.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000067||630/630-LOGO-m.png" xmltv_id="Dream Works.visi">Dream Works.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000068||376/612376-LOGO-m.png" xmltv_id="HITS Now.visi">HITS Now.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000069||317/604317-LOGO-m.png" xmltv_id="Formosa.visi">Formosa.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000070||548/604548-LOGO-m.png" xmltv_id="Sanlih.visi">Sanlih.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000071||534/172534-LOGO-m.png" xmltv_id="Food Travel.visi">Food Travel.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000072||632/632-LOGO-m.png" xmltv_id="Entertainment.visi">Entertainment.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000073||103/458103-LOGO-m.png" xmltv_id="TVN.visi">TVN.visi</channel>
@@ -118,44 +156,37 @@
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000103||649/649-LOGO-m.png" xmltv_id="Global Trekker.visi">Global Trekker.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000104||650/650-LOGO-m.png" xmltv_id="History.visi">History.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000105||682/295682-LOGO-m.png" xmltv_id="Love Nature.visi">Love Nature.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000001||580/580-LOGO-m.png" xmltv_id="RCTI.visi">RCTI.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000112||652/652-LOGO-m.png" xmltv_id="Sportstars.visi">Sportstars.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000003||582/582-LOGO-m.png" xmltv_id="GTV.visi">GTV.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000113||653/653-LOGO-m.png" xmltv_id="Sportstars 2.visi">Sportstars 2.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000002||581/581-LOGO-m.png" xmltv_id="MNCTV.visi">MNCTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000004||583/583-LOGO-m.png" xmltv_id="iNews.visi">iNews.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000114||654/654-LOGO-m.png" xmltv_id="Sportstars 3.visi">Sportstars 3.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000115||655/655-LOGO-m.png" xmltv_id="Soccer Channel.visi">Soccer Channel.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000119||656/656-LOGO-m.png" xmltv_id="SpoTV 1.visi">SpoTV 1.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001018||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 9.visi">V+ LIVE 9.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000120||657/657-LOGO-m.png" xmltv_id="SpoTV 2.visi">SpoTV 2.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001017||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 8.visi">V+ LIVE 8.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000121||658/658-LOGO-m.png" xmltv_id="Fight Sports.visi">Fight Sports.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001016||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 7.visi">V+ LIVE 7.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000134||659/659-LOGO-m.png" xmltv_id="IDX.visi">IDX.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000122||771/198771-LOGO-m.png" xmltv_id="beIN SPORTS.visi">beIN SPORTS.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000123||772/198772-LOGO-m.png" xmltv_id="beIN SPORTS 2.visi">beIN SPORTS 2.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000124||770/198770-LOGO-m.png" xmltv_id="beIN SPORTS 3.visi">beIN SPORTS 3.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000125||897/198897-LOGO-m.png" xmltv_id="beIN SPORTS 4.visi">beIN SPORTS 4.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000126||898/198898-LOGO-m.png" xmltv_id="beIN SPORTS 5.visi">beIN SPORTS 5.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000130||672/493672-LOGO-m.png" xmltv_id="BBC World.visi">BBC World.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000131||382/600382-LOGO-m.png" xmltv_id="CNBC Asia.visi">CNBC Asia.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000132||662/662-LOGO-m.png" xmltv_id="FOX News.visi">FOX News.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000133||663/663-LOGO-m.png" xmltv_id="Bloomberg.visi">Bloomberg.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000134||659/659-LOGO-m.png" xmltv_id="IDX.visi">IDX.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000137||664/664-LOGO-m.png" xmltv_id="Muslim TV.visi">Muslim TV.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000138||665/665-LOGO-m.png" xmltv_id="LIFE.visi">LIFE.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000139||666/666-LOGO-m.png" xmltv_id="Reformed 21.visi">Reformed 21.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000142||667/667-LOGO-m.png" xmltv_id="Music TV.visi">Music TV.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000146||670/670-LOGO-m.png" xmltv_id="DW.visi">DW.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000147||671/671-LOGO-m.png" xmltv_id="France 24.visi">France 24.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000201||426/173426-LOGO-m.png" xmltv_id="RCTI World.visi">RCTI World.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000148||672/672-LOGO-m.png" xmltv_id="TRT World.visi">TRT World.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000202||424/173424-LOGO-m.png" xmltv_id="GTV World.visi">GTV World.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000149||850/850-LOGO-m.png" xmltv_id="Aljazeera.visi">Aljazeera.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000203||425/173425-LOGO-m.png" xmltv_id="MNCTV World.visi">MNCTV World.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000150||674/674-LOGO-m.png" xmltv_id="RT.visi">RT.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000151||675/675-LOGO-m.png" xmltv_id="EURONEWS.visi">EURONEWS.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000122||771/198771-LOGO-m.png" xmltv_id="beIN SPORTS.visi">beIN SPORTS.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000152||847/847-LOGO-m.png" xmltv_id="Channel News Asia.visi">Channel News Asia.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000153||677/677-LOGO-m.png" xmltv_id="Al Quran.visi">Al Quran.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000124||770/198770-LOGO-m.png" xmltv_id="beIN SPORTS 3.visi">beIN SPORTS 3.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000154||678/678-LOGO-m.png" xmltv_id="EWTN.visi">EWTN.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000123||772/198772-LOGO-m.png" xmltv_id="beIN SPORTS 2.visi">beIN SPORTS 2.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000155||679/679-LOGO-m.png" xmltv_id="CGTN Documentary.visi">CGTN Documentary.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001015||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 6.visi">V+ LIVE 6.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000156||680/680-LOGO-m.png" xmltv_id="CGTN.visi">CGTN.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000157||681/681-LOGO-m.png" xmltv_id="Anhui.visi">Anhui.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000158||858/858-LOGO-m.png" xmltv_id="Xing kong.visi">Xing kong.visi</channel>
@@ -163,59 +194,28 @@
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000160||853/853-LOGO-m.png" xmltv_id="Hunan TV.visi">Hunan TV.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000161||685/685-LOGO-m.png" xmltv_id="Jiangsu TV.visi">Jiangsu TV.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000162||686/686-LOGO-m.png" xmltv_id="NHK.visi">NHK.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000163||311/580311-LOGO-m.png" xmltv_id="TV5Monde.visi">TV5Monde.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000164||688/688-LOGO-m.png" xmltv_id="Arirang.visi">Arirang.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000165||689/689-LOGO-m.png" xmltv_id="ABC.visi">ABC.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000201||426/173426-LOGO-m.png" xmltv_id="RCTI World.visi">RCTI World.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000202||424/173424-LOGO-m.png" xmltv_id="GTV World.visi">GTV World.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000203||425/173425-LOGO-m.png" xmltv_id="MNCTV World.visi">MNCTV World.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000204||427/173427-LOGO-m.png" xmltv_id="Drama World.visi">Drama World.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001010||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 2.visi">V+ LIVE 2.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000057||909/162909-LOGO-m.png" xmltv_id="Moonbug.visi">Moonbug.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000126||898/198898-LOGO-m.png" xmltv_id="beIN SPORTS 5.visi">beIN SPORTS 5.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000125||897/198897-LOGO-m.png" xmltv_id="beIN SPORTS 4.visi">beIN SPORTS 4.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001014||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 5.visi">V+ LIVE 5.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001002||402/552402-LOGO-m.png" xmltv_id="V+ LIVE.visi">V+ LIVE.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000251||711/112711-LOGO-m.png" xmltv_id="DENS Food.visi">DENS Food.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000253||712/112712-LOGO-m.png" xmltv_id="DENS Showbizz.visi">DENS Showbizz.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000252||088/115088-LOGO-m.png" xmltv_id="DENSPLAY Channel.visi">DENSPLAY Channel.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000054||114/345114-LOGO-m.png" xmltv_id="Studio Universal.visi">Studio Universal.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000020||074/569074-LOGO-m.png" xmltv_id="Mentari TV.visi">Mentari TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000019||070/569070-LOGO-m.png" xmltv_id="Moji.visi">Moji.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000009||066/569066-LOGO-m.png" xmltv_id="Indosiar.visi">Indosiar.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000005||584/584-LOGO-m.png" xmltv_id="SindoNews.visi">SindoNews.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000006||585/585-LOGO-m.png" xmltv_id="Trans TV.visi">Trans TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000007||586/586-LOGO-m.png" xmltv_id="Trans 7.visi">Trans 7.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000010||587/587-LOGO-m.png" xmltv_id="ANTV.visi">ANTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000011||588/588-LOGO-m.png" xmltv_id="RTV.visi">RTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000012||589/589-LOGO-m.png" xmltv_id="TVOne.visi">TVOne.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000013||590/590-LOGO-m.png" xmltv_id="Kompas TV.visi">Kompas TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000014||591/591-LOGO-m.png" xmltv_id="Metro TV.visi">Metro TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001011||402/552402-LOGO-m.png" xmltv_id="V+ Sports.visi">V+ Sports.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000015||357/273357-LOGO-m.png" xmltv_id="BTV.visi">BTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000016||593/593-LOGO-m.png" xmltv_id="TVRI.visi">TVRI.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000018||595/595-LOGO-m.png" xmltv_id="DAAI TV.visi">DAAI TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000023||334/320334-LOGO-m.png" xmltv_id="MDTV.visi">MDTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000024||856/856-LOGO-m.png" xmltv_id="JTV.visi">JTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000025||598/598-LOGO-m.png" xmltv_id="JAK TV.visi">JAK TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000026||700/700-LOGO-m.png" xmltv_id="Bali TV.visi">Bali TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000027||600/600-LOGO-m.png" xmltv_id="Bandung TV.visi">Bandung TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001012||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 3.visi">V+ LIVE 3.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000028||601/601-LOGO-m.png" xmltv_id="TV 9.visi">TV 9.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001013||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 4.visi">V+ LIVE 4.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000029||839/437839-LOGO-m.png" xmltv_id="DMI TV.visi">DMI TV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000030||603/603-LOGO-m.png" xmltv_id="TV MU.visi">TV MU.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000036||360/273360-LOGO-m.png" xmltv_id="Originals.visi">Originals.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000008||062/569062-LOGO-m.png" xmltv_id="SCTV.visi">SCTV.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000037||392/273392-LOGO-m.png" xmltv_id="Buddy Star.visi">Buddy Star.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000038||397/273397-LOGO-m.png" xmltv_id="Uniques.visi">Uniques.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000039||394/273394-LOGO-m.png" xmltv_id="Superrix.visi">Superrix.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000040||376/273376-LOGO-m.png" xmltv_id="Cineedge.visi">Cineedge.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000041||609/609-LOGO-m.png" xmltv_id="Thrill.visi">Thrill.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000042||610/610-LOGO-m.png" xmltv_id="Hits Movies.visi">Hits Movies.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000068||376/612376-LOGO-m.png" xmltv_id="HITS Now.visi">HITS Now.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000069||317/604317-LOGO-m.png" xmltv_id="Formosa.visi">Formosa.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000070||548/604548-LOGO-m.png" xmltv_id="Sanlih.visi">Sanlih.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000131||382/600382-LOGO-m.png" xmltv_id="CNBC Asia.visi">CNBC Asia.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000163||311/580311-LOGO-m.png" xmltv_id="TV5Monde.visi">TV5Monde.visi</channel>
-    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000114||654/654-LOGO-m.png" xmltv_id="Sportstars 3.visi">Sportstars 3.visi</channel>
     <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000205||691/691-LOGO-m.png" xmltv_id="Sportstars 4.visi">Sportstars 4.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000251||711/112711-LOGO-m.png" xmltv_id="DENS Food.visi">DENS Food.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000252||088/115088-LOGO-m.png" xmltv_id="DENSPLAY Channel.visi">DENSPLAY Channel.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000000253||712/112712-LOGO-m.png" xmltv_id="DENS Showbizz.visi">DENS Showbizz.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001002||402/552402-LOGO-m.png" xmltv_id="V+ LIVE.visi">V+ LIVE.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001008||817/138817-LOGO-m.png" xmltv_id="R+ LIVE.visi">R+ LIVE.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001010||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 2.visi">V+ LIVE 2.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001011||402/552402-LOGO-m.png" xmltv_id="V+ Sports.visi">V+ Sports.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001012||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 3.visi">V+ LIVE 3.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001013||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 4.visi">V+ LIVE 4.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001014||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 5.visi">V+ LIVE 5.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001015||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 6.visi">V+ LIVE 6.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001016||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 7.visi">V+ LIVE 7.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001017||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 8.visi">V+ LIVE 8.visi</channel>
+    <channel site="[ENC][EX]visionplus.id_0" site_id="00000000000000001018||402/552402-LOGO-m.png" xmltv_id="V+ LIVE 9.visi">V+ LIVE 9.visi</channel>
 
     <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be43042758d8||36f75de0a5b543da8d17c46db9d44178.jpg" xmltv_id="Trans TV.cubmu">Trans TV.cubmu</channel>
     <channel site="[ENC][EX]cubmu.com_0" site_id="4028c68574537fcd0174be45631158d9||2165ad80418941528715202210307fb6.jpg" xmltv_id="Trans 7.cubmu">Trans 7.cubmu</channel>
